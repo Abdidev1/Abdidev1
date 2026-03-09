@@ -1,56 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=702963&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&animation=fadeIn" width="100%" />
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW90NXp6eGZpbmR6ZTR4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1m6Kx6E39y7YI7XFv/giphy.gif" width="300px" />
+# 💫 About Me:
+Hi, I'm Abdullah!<br>I'm a 15-year-old developer from Lahore, Pakistan, with a passion for building immersive digital experiences and exploring the world of software engineering. Currently, I'm focusing on mastering cybersecurity and game development.<br>🛠️ What I’m Working On:<br>Game Development: Lead developer at Apex Realms Studios. I specialize in Luau and Roblox Studio, where I created Pixel Climb.<br>Web & Scripts: Building projects using Python, JavaScript, HTML, and CSS.<br>Learning: Currently diving deeper into backend systems and security protocols.<br>🚀 Technical Skills:<br>Languages: Python, Luau, JavaScript, HTML/CSS<br>Platforms: Roblox Studio, GitHub, VS Code<br>Interests: Software Engineering, Cybersecurity, and Game Design<br>🏆 Fun Facts:<br>I’m a huge cricket fan—if I'm not coding, I'm probably checking the latest match stats.<br>I recently participated in the Hack Club Campfire at UCP Lahore.<br>I’m working toward studying abroad for my higher education in the future.
 
-  <h1> 🌌 Coding through the Void </h1>
-</div>
 
----
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/abdi1-11.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullah.mohsin.9028194) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdullahmohsin__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafamohsin976@gmail.com) 
 
-### 🔮 About Me
-- 🔭 **Focusing on:** Scaling innovative projects and mastering backend architecture.
-- ⚡ **Passion:** Game design and building community-driven platforms.
-- 🎓 **Education:** Currently navigating the world of computer science and pre-engineering.
-- ☁️ **Vibe:** Minimalist code and dark-purple terminal themes.
+# 💻 Tech Stack:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdidev1&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdidev1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdidev1&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Abdidev1&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 🛠 My Favorite Spells (Languages & Tools)
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
----
-
-### 🚀 Current Projects
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **Pixel Climb** | An immersive climbing experience with custom physics. | 🟢 Active |
-| **Apex Realms** | Community-focused development studio and repository hub. | 🟡 In-Dev |
-| **Web Portfolios** | Crafting high-performance personal landing pages. | 🔵 Ongoing |
-
----
-
-### 📈 Activity & Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&bg_color=241b35&title_color=bd93f9&text_color=f8f8f2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&bg_color=241b35&title_color=bd93f9&text_color=f8f8f2" width="48%" />
-</div>
-
----
-
-### 🌐 Connect with Me
-<div align="center">
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=702963&style=flat-square&label=PROFILE+VIEWS" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
