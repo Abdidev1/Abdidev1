@@ -35,7 +35,7 @@ Hi, I'm Abdullah!<br>I'm a 15-year-old developer from Lahore, Pakistan, with a p
 
 ---
 
-> ### "A jack of all trades is a master of none, but oftentimes better than a master of one." 🛠️✨
+> ### "Jack of all trades, master of none."🛠️✨
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdidev1&icon=0&color=1)](https://visitcount.itsvg.in)
