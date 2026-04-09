@@ -26,12 +26,16 @@ Hi, I'm Abdullah!<br>I'm a 15-year-old developer from Lahore, Pakistan, with a p
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdidev1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Abdidev1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Main Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdidev1&theme=dark&hide_border=true" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdidev1&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Abdidev1&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+> ### "A jack of all trades is a master of none, but oftentimes better than a master of one." 🛠️✨
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdidev1&icon=0&color=1)](https://visitcount.itsvg.in)
