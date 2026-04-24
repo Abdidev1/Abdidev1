@@ -24,16 +24,13 @@ Hi, I'm Abdullah!<br>I'm a 15-year-old developer from Lahore, Pakistan, with a p
 # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
 
----
-
-# 🏆 Milestone Trophy Room:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdidev1&theme=dracula&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+# 📊 GitHub Activity:
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdidev1&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
-# 📈 Activity Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdidev1&theme=dark&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6" alt="Streak Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdidev1&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 ---
