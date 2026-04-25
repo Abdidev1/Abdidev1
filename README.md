@@ -26,7 +26,7 @@ Hi, I'm Abdullah!<br>I'm a 15-year-old developer from Lahore, Pakistan, with a p
 
 # 📊 GitHub Activity:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdidev1&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdidev1&theme=dark&hide_border=true&cache_seconds=1800" alt="Streak Stats" />
 </p>
 
 <p align="left">
