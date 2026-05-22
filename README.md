@@ -12,7 +12,7 @@ Hi, I'm Abdullah!<br>I'm a 15-year-old developer from Lahore, Pakistan, with a p
 * **Interests:** Software Engineering, Cybersecurity, and Game Design
 
 🏆 **Fun Facts:**
-* I’m a huge cricket fan—if I'm not coding, I'm probably checking the latest match stats.
+* I Have Contriubuted to 116m+ Visits On Roblox
 * I recently participated in the Hack Club Campfire at UCP Lahore.
 * I’m working toward studying abroad for my higher education in the future.
 
