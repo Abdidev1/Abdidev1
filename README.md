@@ -32,8 +32,8 @@ I am a software engineer, game creator, and programmer based in Lahore, Pakistan
 ### 📊 Performance & Coding Stats
 
 <div align="center">
-  <!-- 100% Working Alternative Server for Live Streak Stats Card -->
-  <img src="https://nice-readme.vercel.app/streak-stats?user=abdidev1&theme=tokyonight&ring=bd93f9&fire=ff79c6&currStreakLabel=ff79c6" alt="Abdullah's GitHub Daily Streak" />
+  <!-- Live Updating Contribution Activity Grid -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdidev1&theme=tokyonight&custom_title=Daily%20Contribution%20Activity&bg_color=1a1b27&color=ff79c6&line=bd93f9&point=ffffff" alt="Abdullah's Daily Activity Graph" />
 
   <br/><br/>
 
