@@ -29,13 +29,13 @@ I am a software engineer, game creator, and programmer based in Lahore, Pakistan
 - **Tools & Environments:** Roblox Studio, Git/GitHub, GameMaker, VS Code
 
 ---
-
 ### 📊 Performance & Coding Stats
 
 <div align="center">
-  <!-- Fixed GitHub Streak Stats Mirror (Using Demolab stable subdomain) -->
-  <img src="https://streak-stats.demolab.com/?user=abdidev1&theme=tokyonight&ring=bd93f9&fire=ff79c6&currStreakLabel=ff79c6" alt="Abdullah's GitHub Streak" />
-
+  <!-- Dynamic Contribution Activity Badge -->
+  <img src="https://img.shields.io/github/last-commit/abdidev1/abdidev1?color=purple&label=Last%20Active&style=for-the-badge" alt="Last Active" />
+  <img src="https://img.shields.io/github/commit-activity/m/abdidev1/abdidev1?color=blueviolet&label=Commits&style=for-the-badge" alt="Commit Activity" />
+  
   <br/><br/>
 
   <!-- Hackatime Live Analytics Dashboard -->
