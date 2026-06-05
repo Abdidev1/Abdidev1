@@ -32,16 +32,14 @@ I am a software engineer, game creator, and programmer based in Lahore, Pakistan
 ### 📊 Performance & Coding Stats
 
 <div align="center">
-  <!-- Dynamic Contribution Activity Badge -->
-  <img src="https://img.shields.io/github/last-commit/abdidev1/abdidev1?color=purple&label=Last%20Active&style=for-the-badge" alt="Last Active" />
-  <img src="https://img.shields.io/github/commit-activity/m/abdidev1/abdidev1?color=blueviolet&label=Commits&style=for-the-badge" alt="Commit Activity" />
-  
+  <!-- Live Updating GitHub Daily Streak Stats -->
+  <img src="https://github-readme-streak-stats-git-main-shurshur.vercel.app/?user=abdidev1&theme=tokyonight&ring=bd93f9&fire=ff79c6&currStreakLabel=ff79c6" alt="Abdullah's GitHub Streak" />
+
   <br/><br/>
 
   <!-- Hackatime Live Analytics Dashboard -->
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=28494&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
 </div>
-
 ---
 
 ### 📈 Global Impact & Scale
