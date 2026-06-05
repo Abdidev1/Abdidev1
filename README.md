@@ -33,8 +33,8 @@ I am a software engineer, game creator, and programmer based in Lahore, Pakistan
 ### 📊 Performance & Coding Stats
 
 <div align="center">
-  <!-- GitHub Streak Stats (Updates daily) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdidev1&theme=tokyonight&ring=bd93f9&fire=ff79c6&currStreakLabel=ff79c6" alt="Abdullah's GitHub Streak" />
+  <!-- Fixed GitHub Streak Stats Mirror (Using Demolab stable subdomain) -->
+  <img src="https://streak-stats.demolab.com/?user=abdidev1&theme=tokyonight&ring=bd93f9&fire=ff79c6&currStreakLabel=ff79c6" alt="Abdullah's GitHub Streak" />
 
   <br/><br/>
 
