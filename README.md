@@ -17,13 +17,13 @@
 
 I am a software engineer, game creator, and programmer based in Lahore, Pakistan. I balance building large-scale interactive environments with rapid software prototyping through global developer communities. 
 
-- 🚀 **Apex Realms Studios:** Founder and Lead Developer. I handle the architecture, Luau scripting, optimization, and project deployment completely solo.
-- 🌐 **Aethur:** Core contributor focusing on community engineering and deployment scaling strategies, supporting networks with over 108M+ collective engagements.
-- ⚡ **Hack Clubber:** Active participant in Hack Club global programs (**Horizons**, **Beest**, **Flavourtown**) and local flagship hackathons like **Campfire Lahore**, where I shipped a complete dungeon crawler with Team Dungeon in under 48 hours.
+-  **Apex Realms Studios:** Founder and Lead Developer. I handle the architecture, Luau scripting, optimization, and project deployment completely solo.
+-  **Aethur:** Core contributor focusing on community engineering and deployment scaling strategies, supporting networks with over 108M+ collective engagements.
+-  **Hack Clubber:** Active participant in Hack Club global programs (**Horizons**, **Beest**, **Flavourtown**) and local flagship hackathons like **Campfire Lahore**, where I shipped a complete dungeon crawler with Team Dungeon in under 48 hours.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 - **Languages & Frameworks:** Luau (Roblox Engine), Python, JavaScript, HTML5, CSS3
 - **Tools & Environments:** Roblox Studio, Git/GitHub, GameMaker, VS Code
@@ -42,10 +42,10 @@ I am a software engineer, game creator, and programmer based in Lahore, Pakistan
 </div>
 ---
 
-### 📈 Global Impact & Scale
+###  Global Impact & Scale
 - **116M+** Total Combined Project & Studio Visits 📈
 - **48 Hours** Campfire Flagship Game Jam Game Shipped on Itch.io
-- **100%** Solo Programming & Engineering for Apex Realms Releases
+- **100%** Solo Programming & Engineering for Apex Realms Studios
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdidev1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
