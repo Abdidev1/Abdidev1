@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70">
+  <style>
+    text { font-family: monospace; fill: #c9d1d9; }
+    .label { fill: #7d8590; font-size: 11px; }
+    .value { font-size: 22px; font-weight: bold; }
+  </style>
+  <text x="10" y="28" class="value">181</text>
+  <text x="10" y="46" class="label">CURRENT STREAK</text>
+  <text x="190" y="28" class="value">181</text>
+  <text x="190" y="46" class="label">LONGEST STREAK</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100">
+  <rect x="90" y="10" width="68" height="10" fill="#f1e05a"/><text x="0" y="20" font-family="monospace" font-size="11" fill="#c9d1d9">JavaScript</text><text x="163" y="20" font-family="monospace" font-size="10" fill="#7d8590">31%</text>
+<rect x="90" y="30" width="55" height="10" fill="#e34c26"/><text x="0" y="40" font-family="monospace" font-size="11" fill="#c9d1d9">HTML</text><text x="150" y="40" font-family="monospace" font-size="10" fill="#7d8590">25%</text>
+<rect x="90" y="50" width="55" height="10" fill="#563d7c"/><text x="0" y="60" font-family="monospace" font-size="11" fill="#c9d1d9">CSS</text><text x="150" y="60" font-family="monospace" font-size="10" fill="#7d8590">25%</text>
+<rect x="90" y="70" width="41" height="10" fill="#00a2ff"/><text x="0" y="80" font-family="monospace" font-size="11" fill="#c9d1d9">Luau</text><text x="136" y="80" font-family="monospace" font-size="10" fill="#7d8590">19%</text>
+</svg>
