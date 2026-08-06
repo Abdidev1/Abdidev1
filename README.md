@@ -1,52 +1,50 @@
-<div align="center">
-  <h1>Hey, I'm Abdullah Mohsin 👋</h1>
-  <p><strong>Founder & Senior Engineer of Apex Realms Studios | Game Programmer | Hack Club Contributor</strong></p>
+[![Portrait](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/ascii.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/ascii.svg)
+[![Contributions in the last 13 weeks](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/stats.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/stats.svg)
 
-  <!-- Quote -->
-  <p><i>"Jack of all trades, master of none, though oftentimes better than a master of one."</i></p>
+[portfolio](https://abdidev1.github.io/Abdullah-Portfolio/) · [email](mailto:mustafamohsin976@gmail.com)
 
-  <p>
-    <a href="https://abdidev1.github.io/Abdullah-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:mustafamohsin976@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
-</div>
+[![about](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-about.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-about.svg)
+> Founder & Senior Engineer of Apex Realms Studios · Game Programmer · Hack Club Contributor
+> Jack of all trades, master of none, though oftentimes better than a master of one.
+
+Software engineer, game creator, and programmer based in Lahore, Pakistan.
+I run [Apex Realms Studios](https://github.com/Abdidev1/Apex-Realms-Studios) as
+founder and lead developer — architecture, Luau scripting, optimization, and
+deployment, solo. I'm also an active Hack Club participant (Horizons, Beest,
+Flavourtown, and local flagship hackathons like Campfire Lahore, where I
+shipped a full dungeon crawler with Team Dungeon in under 48 hours).
+
+[![stack](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-stack.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-stack.svg)
+
+`luau python javascript html5 css3 roblox-studio git github vscode`
+
+[![projects](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-projects.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-projects.svg)
+
+**[Apex-Realms-Studios](https://github.com/Abdidev1/Apex-Realms-Studios)** · `html`
+The studio hub — architecture, scripting, and deployment for all Apex Realms projects.
+
+**[UntitledExperience](https://github.com/Abdidev1/UntitledExperience)** · `luau`
+Guess the logo, or die trying — built for Apex Realms Studios.
+
+**[90-s-Era-Web-OS](https://github.com/Abdidev1/90-s-Era-Web-OS)** · `javascript`
+An interactive browser-based desktop thriller styled after Windows Vista's glass aesthetic.
+
+**[Quizify](https://github.com/Abdidev1/Quizify)** · `javascript`
+Responsive web quiz app — customizable categories, ticking timer, multiple topics.
+
+[![stats](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-stats.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/hd-stats.svg)
+
+[![Current and longest streak](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/streak.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/streak.svg)
+[![Top languages](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/langs.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/langs.svg)
+[![The last year, one character per day](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/year.svg)](https://raw.githubusercontent.com/Abdidev1/Abdidev1/main/year.svg)
 
 ---
 
-### 💫 About Me
+Every graphic on this page is generated, not embedded from a third-party
+server. `ascii.svg` is a photo pushed through a character ramp; the stat
+graphics and section headings are drawn by a scheduled GitHub Action straight
+from the GitHub GraphQL API, once a day, committing only what changed.
 
-I am a software engineer, game creator, and programmer based in Lahore, Pakistan. I balance building large-scale interactive environments with rapid software prototyping through global developer communities. 
-
--  **Apex Realms Studios:** Founder and Lead Developer. I handle the architecture, Luau scripting, optimization, and project deployment completely solo.
--  **Aethur:** Core contributor focusing on community engineering and deployment scaling strategies, supporting networks with over 108M+ collective engagements.
--  **Hack Clubber:** Active participant in Hack Club global programs (**Horizons**, **Beest**, **Flavourtown**) and local flagship hackathons like **Campfire Lahore**, where I shipped a complete dungeon crawler with Team Dungeon in under 48 hours.
-
----
-
-###  Tech Stack & Skills
-
-- **Languages & Frameworks:** Luau (Roblox Engine), Python, JavaScript, HTML5, CSS3
-- **Tools & Environments:** Roblox Studio, Git/GitHub, GameMaker, VS Code
-
----
-### 📊 Performance & Coding Stats
-
-<div align="center">
-  <!-- Live Updating Contribution Activity Grid -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdidev1&theme=tokyonight&custom_title=Daily%20Contribution%20Activity&bg_color=1a1b27&color=ff79c6&line=bd93f9&point=ffffff" alt="Abdullah's Daily Activity Graph" />
-
-  <br/><br/>
-
-  <!-- Hackatime Live Analytics Dashboard -->
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=28494&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
-</div>
----
-
-###  Global Impact & Scale
-- **116M+** Total Combined Project & Studio Visits 📈
-- **48 Hours** Campfire Flagship Game Jam Game Shipped on Itch.io
-- **100%** Solo Programming & Engineering for Apex Realms Studios
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdidev1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+They animate with SMIL inside the SVG, since GitHub strips `<script>` tags
+from READMEs — and since nothing loads from a third party, nothing here can
+rate-limit or go dark.
